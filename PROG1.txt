@@ -1,0 +1,10 @@
+Alcachofa - https://dle.rae.es/alcachofa
+Mesa - https://dle.rae.es/mesa?m=form
+Carro - https://dle.rae.es/carro?m=form
+Moto - https://dle.rae.es/moto?m=form
+Coche - https://dle.rae.es/coche?m=form
+Ratón - https://dle.rae.es/rat%C3%B3n
+Teclado - https://dle.rae.es/teclado?m=form
+Pastel - https://dle.rae.es/pastel?m=form
+Objeto - https://dle.rae.es/objeto?m=form
+Bolsa - https://dle.rae.es/bolsa?m=form
